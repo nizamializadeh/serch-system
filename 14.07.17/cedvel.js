@@ -1,6 +1,4 @@
-// var a = [2, 9, 9]; 
-// a.indexOf(2); // 0 
-// a.indexOf(7); // -1
+
 function on(){
 var serch  ,table ,input ,tr ,td ,i;
 
