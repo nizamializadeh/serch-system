@@ -1,0 +1,30 @@
+#table{
+	border-collapse: collapse;
+	width: 100%;
+}
+td{
+	border:1px solid #ccc;
+ height: 34px;
+    padding: 6px 12px;
+	text-align: center;
+}
+th{
+	border:1px solid #ccc;
+	 height: 34px;
+    padding: 6px 12px;
+	
+}
+.header{
+	width: 100%;
+}
+#myinput{
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
